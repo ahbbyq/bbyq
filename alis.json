@@ -1,15 +1,15 @@
 ﻿[{
 	"name": "杨青自用",
-	"server": "http://nas70.f3322.net:687/",
-	"startPage": "/dav",
+	"server": "http://nas70.f3322.net:5678/",
+	"startPage": "/",
 	"showAll": false,
 	"search": true,
 	"params": {
 		"/abc": {
-			"password": "bbyq"
+			"password": "123"
 		},
 		"/abc/abc": {
-			"password": "bbyq4083166"
+			"password": "123"
 		}
 	}
 }]

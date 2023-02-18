@@ -1,10 +1,9 @@
- "drives": [
         {
             "name": "小雅的Alist",
             "server": "http://nas70.f3322.net:5678",
             "type": "alist"
         },
-{
+       {
 	"sites": [
 		{
 			"key": "小苹果",

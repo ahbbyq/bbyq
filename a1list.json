@@ -1,6 +1,6 @@
 [{
 	"name": "杨青自用",
-	"server": "http://alist.xiaoya.pro/",
+	"server": "http://192.168.3.7:5678/",
 	"startPage": "/",
 	"showAll": false,
 	"search": true,

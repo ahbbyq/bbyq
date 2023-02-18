@@ -6,7 +6,7 @@
     "drives": [
         {
             "name": "小雅的Alist",
-            "server": "http://alist.xiaoya.pro",
+            "server": "http://nas70.f3322.net:5678",
             "type": "alist"
         },
         ],

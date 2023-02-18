@@ -4,7 +4,11 @@
     "mode": 1,
     "spider": "http://101.34.67.237/files/custom_spider_tang.jar",
     "drives": [
-      
+        {
+            "name": "小雅的Alist",
+            "server": "http://nas70.f3322.net:5678",
+            "type": "alist"
+        },
         ],
     "homepage": "https://gitcode.net/qq_32394351/dr_py",
     "sites": [

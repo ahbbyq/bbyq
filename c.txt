@@ -73,8 +73,8 @@ CHC家庭,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19
 大湾区视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226442/index.m3u8
 卡酷少儿,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225654/index.m3u8
 港台频道,#genre#
-凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰中文,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 
 纪录片频道,#genre#
 
